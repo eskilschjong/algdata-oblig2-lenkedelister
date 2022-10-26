@@ -5,12 +5,6 @@ Oppgaven er levert av følgende studenter:
 * Eskil Ekaas Schjong, s364722, s364722@oslomet.no
 * Oliver Dragland, s364702, s364702@oslomet.no
 
-# Viktig
-Vi fikk ikke Oblig2Test til å funke før noen timer før fristen.
-Derfor jobbet vi i et annet repo uten test og kopierte over metodene inn i dette repoet når vi fant ut av det.
-Derfor har vi få commits i dette repoet.
-Vi rakk også derfor heller ikke å fikse alle feilene i testene før fristen.
-
 # Arbeidsfordeling
 
 I oppgaven har vi hatt følgende arbeidsfordeling:
